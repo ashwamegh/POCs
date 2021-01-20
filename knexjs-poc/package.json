@@ -1,0 +1,16 @@
+{
+  "name": "knexjs-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+	"start": "node index.js",
+	"dev": "nodemon index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^5.1.0",
+    "knex": "^0.21.16",
+    "pg": "^8.5.1"
+  }
+}
